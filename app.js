@@ -127,7 +127,7 @@ var budgetController = (function() {
                 percentage: data.percentage
             }
         },
-
+//         A test for checking the databas
         testing: function() {
             console.log(data);
         }
